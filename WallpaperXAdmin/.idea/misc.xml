@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/drawable/bottomshape.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/drawable/cat_title.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/drawable/edit_txt_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_bom.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_cat.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_final_cat.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/activity_tct.xml" value="0.16" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/item_bom.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/item_cat.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/item_category.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Nath Reddy/OneDrive/Desktop/PROJECTS/WallpaperXAdmin/app/src/main/res/layout/item_colortone.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
